@@ -1,7 +1,25 @@
 ---
 title: "Mis expectativas"
 date: 2022-02-21T18:16:21-06:00
-description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
+description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.' 🌸
 ---
+Holi pokelitos!!! 🧁
 
-Usa este post para anotar tus expectativas de la misión.
+Para mi la cultura de un profesional en software se basa en:
+- Dedicacion 
+- Paciencia
+- Entrega
+- Compromiso
+- Confianza
+- Honestidad
+
+Esto lo valoro en cualquier profesion.
+Como personas es importante valorar y respetar a todas las personas 🧑‍🤝‍🧑
+Cuidar nuestro entorno 🌳 y amar a los animales 😽
+
+"Un buen desarrollador de software trabaja con disciplina y constancia desde el primer día."
+💠 - Omar Bradley - 💠
+
+
+
+
