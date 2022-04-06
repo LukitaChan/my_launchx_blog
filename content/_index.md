@@ -1,5 +1,5 @@
 ---
-title: Launch X Bitácora de viaje de LukitaChan </h2>
+title: Launch X Bitácora de viaje de LukitaChan
 description: Bitacora del la capitan; aprender, aprender y apender mas! 🙆‍♀️
 ---
 
