@@ -3,7 +3,7 @@
 <h4 align="center"> :hibiscus: :hibiscus: :hibiscus: :hibiscus: :hibiscus: :hibiscus: :hibiscus: :hibiscus: :hibiscus: :hibiscus: </h4>
 
 <h2 align="center"> title: Launch X Bitácora de viaje de LukitaChan </h2>
-<h3 align="center"> description: The hallway smelt of boiled cabbage and old rag mats. </h3>
+<h3 align="center"> description: Bitacora del la capitan; aprender, aprender y apender mas! :ok_woman: </h3>
 
 <h4 align="center"> :tulip:   :tulip:   :tulip:    :tulip:    :tulip:    :tulip:    :tulip:    :tulip:    :tulip:    :tulip: </h4>
 
@@ -14,7 +14,7 @@
 
 <p align="center"> Te invito a conocer mis aprendizajes y leer mis experiencias. </p>
 
-<p align="center"> Saludos a todos :D </p>
+<p align="center"> Saludos a todos :grin: </p>
 
 <h4 align="center">  🚀 :dog: :paw_prints: </h4>
 
