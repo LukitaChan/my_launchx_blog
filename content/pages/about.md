@@ -1,21 +1,17 @@
 ---
-title: 'About me'
+title: 'Sobre Mi'
 menu:
   main:
-    name: "AboutMe"
+    name: "Algo sobre mi..."
 ---
 
-## Who am I
+## Quien soy?
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Hola, aquí vas a leer un poco sobre mi 🌸
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Soy una chica de Merida
+> Me gustan las cosas lindas
+> Jugar videojuegos, en especial las sagas de Pokemon, TLOZ, Fire Emblem
+> Colecciono figuras japonenas, como Nendoroid, Figma, Figuarts, etc.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+**Me gustan muchas cosas** Creo que la dedicacion, perseverancia y el esfuerzo son partes importantes que fomentan a las personas a salir adelante.
