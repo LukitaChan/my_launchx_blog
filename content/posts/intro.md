@@ -17,8 +17,7 @@ Esto lo valoro en cualquier profesion.
 Como personas es importante valorar y respetar a todas las personas 🧑‍🤝‍🧑
 Cuidar nuestro entorno 🌳 y amar a los animales 😽
 
-"Un buen desarrollador de software trabaja con disciplina y constancia desde el primer día."
-💠 - Omar Bradley - 💠
+Un buen desarrollador de software trabaja con disciplina y constancia desde el primer día. 💠 Omar Bradley 💠
 
 
 
